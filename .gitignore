@@ -35,3 +35,8 @@ dist/
 
 # Project runtime artifacts
 downloads/
+
+# Downloaded/generated document artifacts
+*.pdf
+*.txt
+*.zip
